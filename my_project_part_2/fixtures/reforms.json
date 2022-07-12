@@ -1,0 +1,98 @@
+[
+  {
+    "model": "reforms.city",
+    "pk": 1,
+    "fields": {
+        "name": "Санкт-Петербург",
+        "description":"description"
+    }
+  },
+  {
+    "model": "reforms.city",
+    "pk": 2,
+    "fields": {
+        "name": "Москва",
+        "description":"description"
+    }
+  },
+    {
+    "model": "reforms.city",
+    "pk": 3,
+    "fields": {
+        "name": "Самара",
+        "description":"description"
+    }
+  },
+    {
+    "model": "reforms.city",
+    "pk": 4,
+    "fields": {
+        "name": "Сочи",
+        "description":"description"
+    }
+  },
+    {
+    "model": "reforms.city",
+    "pk": 5,
+    "fields": {
+        "name": "Челябинск",
+        "description": "description"
+    }
+  },
+    {
+    "model": "reforms.city",
+    "pk": 6,
+    "fields": {
+        "name": "Казань",
+        "description": "description"
+    }
+  },
+    {
+    "model": "reforms.city",
+    "pk": 7,
+    "fields": {
+        "name": "Владивосток",
+        "description":"description"
+    }
+  },
+    {
+    "model": "reforms.city",
+    "pk": 8,
+    "fields": {
+        "name": "Чебоксары",
+        "description":"description"
+    }
+  },
+    {
+    "model": "reforms.city",
+    "pk": 9,
+    "fields": {
+        "name": "Нижний Новгород",
+        "description":"description"
+    }
+  },
+    {
+    "model": "reforms.city",
+    "pk": 10,
+    "fields": {
+        "name": "Петрозаводск",
+        "description":"description"
+    }
+  },
+    {
+    "model": "reforms.city",
+    "pk": 11,
+    "fields": {
+        "name": "Мурманск",
+        "description":"description"
+    }
+  },
+    {
+    "model": "reforms.city",
+    "pk": 12,
+    "fields": {
+        "name": "Архангельск",
+        "description":"description"
+    }
+  }
+]
